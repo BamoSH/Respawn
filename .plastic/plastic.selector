@@ -1,0 +1,4 @@
+repository "GMTK2024@tj_gmtk2024sfkteam@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
