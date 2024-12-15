@@ -10,15 +10,15 @@
 
 # Introduction
 
-![Image Respawn 1]（https://github.com/BamoSH/Respawn/blob/master/ReadMeImage/Respawn%20intro%201.png）
+![Image Respawn 1](https://github.com/BamoSH/Respawn/blob/master/ReadMeImage/Respawn%20intro%201.png)
 
-![Image Respawn 2]（https://github.com/BamoSH/Respawn/blob/master/ReadMeImage/Respawn%20intro%202.png）
+![Image Respawn 2](https://github.com/BamoSH/Respawn/blob/master/ReadMeImage/Respawn%20intro%202.png)
 
-![Image Respawn 3]（https://github.com/BamoSH/Respawn/blob/master/ReadMeImage/Respawn%20intro%203.png）
+![Image Respawn 3](https://github.com/BamoSH/Respawn/blob/master/ReadMeImage/Respawn%20intro%203.png)
 
-![Image Respawn 4]（https://github.com/BamoSH/Respawn/blob/master/ReadMeImage/Respawn%20intro%204.png）
+![Image Respawn 4](https://github.com/BamoSH/Respawn/blob/master/ReadMeImage/Respawn%20intro%204.png)
 
-![Image Respawn 5]（https://github.com/BamoSH/Respawn/blob/master/ReadMeImage/Respawn%20intro%205.png）
+![Image Respawn 5](https://github.com/BamoSH/Respawn/blob/master/ReadMeImage/Respawn%20intro%205.png)
 
-![Image Respawn 6]（https://github.com/BamoSH/Respawn/blob/master/ReadMeImage/Respawn%20intro%206.png）
+![Image Respawn 6](https://github.com/BamoSH/Respawn/blob/master/ReadMeImage/Respawn%20intro%206.png)
 
